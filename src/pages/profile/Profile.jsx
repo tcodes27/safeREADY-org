@@ -16,12 +16,12 @@ const Profile = () => {
     <div className="profile">
       <div className="images">
         <img
-          src="https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=1600"
+          src="https://images.unsplash.com/photo-1522543558187-768b6df7c25c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29tbXVuaXR5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
           alt=""
           className="cover"
         />
         <img
-          src="https://images.pexels.com/photos/1441151/pexels-photo-1441151.jpeg?auto=compress&cs=tinysrgb&w=1600"
+          src="https://images.pexels.com/photos/8297158/pexels-photo-8297158.jpeg?auto=compress&cs=tinysrgb&w=1600"
           alt=""
           className="profilePic"
         />
