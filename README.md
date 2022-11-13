@@ -1,6 +1,6 @@
 # SafeREADY Social Media App w/ live chat (In Process)
 
-!(./client/public/safeREADYImage.png)
+![UI](./client/public/safeREADYImage.png)
 <br>
 
 ## Highlights
