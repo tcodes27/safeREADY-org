@@ -1,6 +1,6 @@
 # SafeREADY Social Media App w/ live chat (In Process)
 
-![UI]<a href="https://ibb.co/W6mFb5b"><img src="https://i.ibb.co/qdT9tjt/safe-READYImage.png" alt="safe-READYImage" border="0"></a>
+<a href="https://ibb.co/W6mFb5b"><img src="https://i.ibb.co/qdT9tjt/safe-READYImage.png" alt="safe-READYImage" border="0"></a>
 <br>
 
 ## Highlights
